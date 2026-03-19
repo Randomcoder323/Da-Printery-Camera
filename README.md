@@ -29,3 +29,20 @@ Brfore starting anything I tried to find dimension online for the a1 mini and my
 
 
 **Total time spent: 0.67**
+
+
+# March 19 6:12 : Assembly in onshape
+
+I started by exporting my parts and putting them into onshape. I took the limit siwtch name off of aliexpress and found a model online. I then found a really good a1 mini model online on reddit. I copied the onshape asssembly and added my part to the side. It was really dificult trying to the the mate connector to work but I got it. I then imported the limit switch, however I found no way to merge the bodies in assembly. I then had to mate connect all the parts which took a bit. I had to find the rigt way to mate connect it to the printer, but I then figured out that I could amte connect it then delete the connect and move it reigularly slight to manually adjust it. I will add the electronic box next journal!
+
+<img width="475" height="509" alt="image" src="https://github.com/user-attachments/assets/95ba0383-e6d1-4ba0-bbfc-8ca00a9690ef" />
+
+<img width="1005" height="768" alt="image" src="https://github.com/user-attachments/assets/2d26e9c0-a34d-4eb7-8a58-dc2bfe478444" />
+
+
+**Total time spent: 0.5**
+
+
+
+
+
