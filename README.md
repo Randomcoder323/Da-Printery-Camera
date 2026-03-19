@@ -11,3 +11,21 @@ I started by brainstroming idea for this project. I started by tring to figure o
 
 
 **Total time spent: 0.7**
+
+# March 19 5:38 : Limit Switch mount
+
+Brfore starting anything I tried to find dimension online for the a1 mini and my limti switch I found some info online, but this was the most helpful! I then found some model online for the poop shot and got the neaurment for that from there. I started by building the outside diameted, with a circled side and the oval kidn shape for the poop shute holder. <img width="654" height="268" alt="image" src="https://github.com/user-attachments/assets/c740c29f-b241-4cd4-ac1d-5de583f540c7" /> I then started the bottom side of the mount and made the rectangular bottom and the plate at the bottom. <img width="614" height="398" alt="image" src="https://github.com/user-attachments/assets/9477dd85-225b-4d94-a1ca-fdb1838c8494" />. I then extruded everything and matche dthe heights. I then also made holder for the switch to be mounted with some screws. I added tolarances and a chamfer!
+
+
+<img width="456" height="337" alt="image" src="https://github.com/user-attachments/assets/a5ac22ef-47d3-492d-af2e-b7d9a7079eaf" />
+<img width="822" height="533" alt="image" src="https://github.com/user-attachments/assets/37effa94-2d0f-4e5d-9077-8cdc9acb13ab" />
+<img width="654" height="576" alt="image" src="https://github.com/user-attachments/assets/8d14dfce-fb46-4611-ab64-32a1834eb3fc" />
+<img width="627" height="709" alt="image" src="https://github.com/user-attachments/assets/d1b075d0-2443-47bc-a45d-d248a70c30d0" />
+
+<img width="1005" height="681" alt="image" src="https://github.com/user-attachments/assets/9b070b50-c5cc-4a47-aa3f-c57f62d7af14" />
+
+<img width="892" height="732" alt="image" src="https://github.com/user-attachments/assets/9c0f61a9-324a-4bc7-baf4-a364e267f041" />
+
+
+
+**Total time spent: 0.67**
