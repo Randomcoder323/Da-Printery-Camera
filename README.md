@@ -42,6 +42,26 @@ I started by exporting my parts and putting them into onshape. I took the limit 
 
 **Total time spent: 0.5**
 
+# March 20 7:46 AM : BOM and es 32 box+assembly.
+I started by taking all thr components I needed and found the link in aliexpress. I put in the prices, and doubled checked that they are 1.what I needed, and 2. that they are the cheapest possible. I then cleaned it up so any one can follow it. I then found an esp32 model online, so I can get the mesurments and make sure it fits. I made the box around 1mm bigger, and made a lid with some good tolerances. I brought it into onshape and put the esp32 inside it, I really like how it looks. I will either add holes to the top or other side, so the wire has somewhere to go!
+
+
+<img width="1201" height="783" alt="image" src="https://github.com/user-attachments/assets/48e8871f-fa8e-49b2-bac2-cd43aa3bb294" />
+
+<img width="855" height="604" alt="image" src="https://github.com/user-attachments/assets/483e2aac-fe59-4d85-b08e-5b57a559b699" />
+
+<img width="1003" height="678" alt="image" src="https://github.com/user-attachments/assets/3ee17111-1524-4c82-9a91-8030b99ca5d5" />
+<img width="1064" height="820" alt="image" src="https://github.com/user-attachments/assets/3a87bf17-c281-46e3-8f62-62d496b50efe" />
+<img width="982" height="745" alt="image" src="https://github.com/user-attachments/assets/553ac8fc-90db-4a10-873c-b9c05159a3e0" />
+<img width="847" height="267" alt="image" src="https://github.com/user-attachments/assets/66bc88fc-456e-441c-ba18-146e34f034b9" />
+
+**Total time spent: 0.75**
+
+
+
+
+
+
 
 
 
