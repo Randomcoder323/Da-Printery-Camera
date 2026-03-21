@@ -72,6 +72,19 @@ I started by making a quick demo wiring diagram on canva since its so simple wit
 **Total time spent: 0.6h**
 
 
+# March 20 9:33pm : Finished Readme.MD, Added all files requried, checked submission
+
+I started by adding the BOM in MD format, I then uploaded the missing assmebly files and made sure that all the files needed are there. I had to zip up the assembly file because It was too big. The a1 mini assembly model was not made by me, just used it for showing purposes. I went on to the reowkr website and made sure that I checked all the boxes. I just need to  add a simple gcode file and I should be good.
+
+<img width="1434" height="813" alt="image" src="https://github.com/user-attachments/assets/41ceee33-1f94-4000-98d7-f5b316a661bb" />
+<img width="842" height="569" alt="image" src="https://github.com/user-attachments/assets/a461d356-0306-4aa3-9c24-2feb5721ba15" />
+
+ 
+**Total time spent: 0.3h**
+
+
+
+
 
 
 
