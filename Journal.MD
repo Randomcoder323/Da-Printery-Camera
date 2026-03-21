@@ -57,7 +57,12 @@ I started by taking all thr components I needed and found the link in aliexpress
 
 **Total time spent: 0.75**
 
+# March 20 8:42pm : Code, wiring, and read.md
 
+I started by making a quick demo wiring diagram on canva since its so simple with only two connections. The  esp32 will be connected to my coputer along with the cmaera. I started making the code with ( lots of help) from AI. I tried to learn and udnerstand what's going on and editing some of it myself. The code launches the camera,( which will later be the camera next to the printer when I build this), every time I press M it takes a picture and saves it, so the Idea is that when the printer hits the limit switch, the computer takes a picture from the camera, which will then save the picture. Herre is a quick demo video 
+
+ 
+**Total time spent: 2h**
 
 
 
