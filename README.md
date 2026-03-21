@@ -1,7 +1,7 @@
 # Da printery Camera
 
 
-## How will I Assebmle this? 
+## How will I assemble this? 
 I will print the limt siwtch mount and screw the switch in, then put it on the printer. Before this  I will solder the wires to the esp32. I will put the camera on the table so its stable and both the cmaera and esp32 to my computer. I will lastly run my code and adjust the printer gcode.
 
 ## Picstures and Assembly 
@@ -31,5 +31,5 @@ I made this camera timelapse module to be able to take cool timelapse of my prin
 ## Wiring and Code
 The limit siwtch is goind to be connected to the esp 32 gpio pin and ground. The esp 32 will be connected to my computer, which will also be conencted to the camera as an external camera. Everything is going to be soldered and then wrapped in electric tape to give it a clean look. I really like how everything is clean and simple, as I made moutn for the limit switch and a box for the esp32 with e wires.
 
-
 <img width="961" height="544" alt="image" src="https://github.com/user-attachments/assets/35707a21-5dae-45b8-8010-1f1f731a1680" />
+
