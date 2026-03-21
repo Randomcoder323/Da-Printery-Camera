@@ -1,7 +1,11 @@
 # Da printery Camera
 
-## Picstures and Assembly 
 
+## How will I Assebmle this? 
+I will print the limt siwtch mount and screw the switch in, then put it on the printer. Before this  I will solder the wires to the esp32. I will put the camera on the table so its stable and both the cmaera and esp32 to my computer. I will lastly run my code and adjust the printer gcode.
+
+## Picstures and Assembly 
+<img width="964" height="552" alt="image" src="https://github.com/user-attachments/assets/ec45c9e2-f04f-4fa1-b18f-5ee92acd2259" />
 <img width="982" height="745" alt="Screenshot 2026-03-20 074557" src="https://github.com/user-attachments/assets/a44520ba-96b7-4021-ba55-a9405be804c0" />
 <img width="1005" height="768" alt="Screenshot 2026-03-19 181841" src="https://github.com/user-attachments/assets/fa2c88db-164e-4870-b08b-ed97d85e9e4a" />
 <img width="475" height="509" alt="Screenshot 2026-03-19 181812" src="https://github.com/user-attachments/assets/09c46d57-8f92-4d31-a1f1-656d92e6808b" />
@@ -14,6 +18,15 @@ I made this camera timelapse module to be able to take cool timelapse of my prin
 
 ## BOM
 
+| Item                      | Qty | Price | Link |
+|---------------------------|-----|-------|------|
+| ESP32 CH340C              | 1   | $3.32 | [Buy](https://www.aliexpress.us/item/3256804290552594.html) |
+| Arced 21mm limit switch   | 1   | $1.59 | [Buy](https://www.aliexpress.us/item/3256808047511109.html) |
+| Camera module             | 1   | $11.11| [Buy](https://www.aliexpress.us/item/3256810425121893.html) |
+| 3D printed parts          | 1   | N/A   | Self printed |
+| 64GB MicroSD card         | 1   | $5.08 | [Buy](https://www.aliexpress.us/item/3256802611588453.html) |
+
+**Total (after coupons): ~$21**
 
 ## Wiring and Code
 The limit siwtch is goind to be connected to the esp 32 gpio pin and ground. The esp 32 will be connected to my computer, which will also be conencted to the camera as an external camera. Everything is going to be soldered and then wrapped in electric tape to give it a clean look. I really like how everything is clean and simple, as I made moutn for the limit switch and a box for the esp32 with e wires.
