@@ -40,7 +40,7 @@ while True:
         
         if key == ord('q'):
             break
-        elif key == ord('m'):
+        elif key == ord('g'):
             take_photo = True
             
         if ser and ser.in_waiting > 0:
