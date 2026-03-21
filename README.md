@@ -33,3 +33,5 @@ The limit siwtch is goind to be connected to the esp 32 gpio pin and ground. The
 
 <img width="961" height="544" alt="image" src="https://github.com/user-attachments/assets/35707a21-5dae-45b8-8010-1f1f731a1680" />
 
+Code can be found under **Capture.py**
+
