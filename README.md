@@ -26,7 +26,7 @@ I will print the limt siwtch mount and screw the switch in, then put it on the p
 | Arced 21mm limit switch   | 1   | $1.59 | [Buy](https://www.aliexpress.us/item/3256808047511109.html) |
 | Camera module             | 1   | $11.11| [Buy](https://www.aliexpress.us/item/3256810425121893.html) |
 | 3D printed parts          | 1   | N/A   | Self printed |
-| 64GB MicroSD card         | 1   | $5.08 | [Buy](https://www.aliexpress.us/item/3256802611588453.html) |
+| 64GB MicroSD card for the camera         | 1   | $5.08 | [Buy](https://www.aliexpress.us/item/3256802611588453.html) |
 
 **Total (after coupons): ~$21**
 
