@@ -82,6 +82,16 @@ I started by adding the BOM in MD format, I then uploaded the missing assmebly f
  
 **Total time spent: 0.3h**
 
+# March 20 9:48pm : Gcode, Slicer
+
+I sliced the models in Bambu Studio, and added the grams to the BOM, It takes only 27 grams for the box and the mount. I then searched up some gcode commonly used fofr timelapses, and too kinspo from that. With a bit of help, I got a simple version. The way this  is gonna work is going to be that I add this gcode to the layer Gcode in the slicer, so after each layer it will go to this positon and hit the switch
+
+<img width="598" height="294" alt="image" src="https://github.com/user-attachments/assets/5ef284a1-fb87-40d2-a38a-5f1101fbfad8" />
+<img width="1018" height="922" alt="image" src="https://github.com/user-attachments/assets/40d718c4-e0e4-489f-bb1f-ff3d34f3617c" />
+
+**Total time spent: 0.2h**
+
+
 
 
 
