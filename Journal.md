@@ -92,7 +92,7 @@ I sliced the models in Bambu Studio, and added the grams to the BOM, It takes on
 **Total time spent: 0.2h**
 
 
-
+# Total Time = 3.72 hours
 
 
 
