@@ -31,13 +31,14 @@ I will print the limt siwtch mount and screw the switch in, then put it on the p
 **Total (after coupons): ~$21**
 
 ## Wiring and Code
-The limit siwtch is goind to be connected to the esp 32 gpio pin and ground. The esp 32 will be connected to my computer, which will also be conencted to the camera as an external camera. Everything is going to be soldered and then wrapped in electric tape to give it a clean look. I really like how everything is clean and simple, as I made moutn for the limit switch and a box for the esp32 with e wires.
+The limit siwtch is goind to be connected to the esp 32 gpio pin and ground. The esp 32 will be connected to my computer, which will also be conencted to the camera as an external camera. Everything is going to be soldered and then wrapped in electric tape to give it a clean look. I really like how everything is clean and simple, as I made moutn for the limit switch and a box for the esp32 with wires.
 
 <p align="center">
   <img width="961" height="544" alt="image" src="https://github.com/user-attachments/assets/35707a21-5dae-45b8-8010-1f1f731a1680" />
 </p>
 
-Code can be found under **[Capture.py](PC_Camera_Capture/capture.py)**
 
-Look at  **[Timelapse.gcode](PC_Camera_Capture/Timelapse.gcode)** to make the timelapse work in the slicer.
+Code can be found under **[Capture.py](PC_Camera_Capture/capture.py)**, this is the code that will run on my computer. **[esp_firmware.ino](PC_Camera_Capture/esp_firmware.ino)**, this is code that will be flashed on the esp32, it will detect the push and work with the python file on my computer!
+
+  **[Timelapse.gcode](PC_Camera_Capture/Timelapse.gcode)** to make the timelapse work in the slicer, there are isntructions at the top, but baiscally it will go in the each layer gcode
 
