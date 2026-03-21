@@ -59,10 +59,17 @@ I started by taking all thr components I needed and found the link in aliexpress
 
 # March 20 8:42pm : Code, wiring, and read.md
 
-I started by making a quick demo wiring diagram on canva since its so simple with only two connections. The  esp32 will be connected to my coputer along with the cmaera. I started making the code with ( lots of help) from AI. I tried to learn and udnerstand what's going on and editing some of it myself. The code launches the camera,( which will later be the camera next to the printer when I build this), every time I press M it takes a picture and saves it, so the Idea is that when the printer hits the limit switch, the computer takes a picture from the camera, which will then save the picture. Herre is a quick demo video 
+I started by making a quick demo wiring diagram on canva since its so simple with only two connections. The  esp32 will be connected to my coputer along with the cmaera. I started making the code with ( lots of help) from AI. I tried to learn and udnerstand what's going on and editing some of it myself. The code launches the camera,( which will later be the camera next to the printer when I build this), every time I press M it takes a picture and saves it, so the Idea is that when the printer hits the limit switch, the computer takes a picture from the camera, which will then save the picture. Herre is a quick demo video. I then started working on the readme.MD. I added the "Why" I made this project, wiring, but still need to add BOM and code.
+
+<img width="841" height="763" alt="image" src="https://github.com/user-attachments/assets/0e38e2a6-560e-4298-b46b-2efa25040ee2" />
+<img width="749" height="1029" alt="image" src="https://github.com/user-attachments/assets/2f570b58-81e6-4768-a216-fc8f37945591" />
+<img width="987" height="550" alt="Screenshot 2026-03-20 205303" src="https://github.com/user-attachments/assets/b173b7b3-ff1e-4721-abf6-de5c0a3c07ff" />
+<img width="776" height="991" alt="Screenshot 2026-03-20 205254" src="https://github.com/user-attachments/assets/b81587cc-4fe0-42ed-b2f9-3e6184f6430b" />
+
+[Watch the video](https://streamable.com/khbx4j)
 
  
-**Total time spent: 2h**
+**Total time spent: 0.6h**
 
 
 
