@@ -1,4 +1,4 @@
-; Paste this into: Printer Settings > Machine G-code > Layer change G-code
+; Paste this into,Printer Settings, Machine G-code, Layer change G-code
 G91               
 G1 Z1.5 F6000     ; Lift the nozzle UP by 1.5mm 
 G90               
