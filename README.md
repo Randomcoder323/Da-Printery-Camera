@@ -17,9 +17,6 @@ I will print the limt siwtch mount and screw the switch in, then put it on the p
   <img width="614" height="398" alt="Screenshot 2026-03-19 174123" src="https://github.com/user-attachments/assets/917b95ba-6acb-42c3-b1fb-753c05f00a54" />
 </p>
 
-## Why?
-
-I made this camera timelapse module to be able to take cool timelapse of my prints with a way better camera than the 0.5 fps 240 quality camera on the a1 mini. I can also remotely monitor my print as an added bonus!
 
 ## BOM
 
