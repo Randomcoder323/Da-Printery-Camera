@@ -92,8 +92,26 @@ I sliced the models in Bambu Studio, and added the grams to the BOM, It takes on
 **Total time spent: 0.2h**
 
 
-# Total Time = 3.72 hours
+# Total Time = 6.12 hours with build
 
+
+
+
+
+# March 31 12:18pm : Buidling!
+
+I started by opening all the pacages and making sure that they are the right ones, I recived the microsd card, eesp32, limit switch and camera. I downlaoded the app and setup the camera, however it wasn't deteceted on many pc for some reason. After downlaoding varoius software I learned that its using the usb cable for power only. I then found an online portal for the app where I can see the camera. So I changed the python code to take a screenshot instead of a picture from my webcam. I then sliced and printed the esp 32 case and switch mount. I took the .ino code and uplaoded it to the esp32 and it worked first try. I tested the code with my webcam and the screenshot code, and both worked flawlessly. After the stuff was printed I put the switch on the mount and tried it on the printer, and it fit perfectly. I put the esp32 in the box and everything fit. I them took the gcode I made and put it in the layer gcode. I set up the camera and made sure everything looked good and even tested it by moving the printer head. I started the pritn anf ran the python code, but it ddin't work quite well. First of all the head didn't move far left enough and it wasn't extruding properly, I tried troubleshooting for a bit but had no luck. I then edited te timelapse gcode to do what I want and it worked good. I then realized after it finsihed that the camera has a delay, meaning that the printer had clciked the button and the cmaera took a pciture when the head was still printing in the middle. I fixed this by making the head wwait 5 seconds on the side and the python code taking a screenshot after 3.5 second. I tried a couple takes and got it right. I took pictures and used an online tool to turn the frrames into actual video!
+
+<img width="1301" height="1126" alt="Screenshot 2026-03-31 105508" src="https://github.com/user-attachments/assets/7490131e-50df-4b8b-a3fc-a9a68d5c7f5f" />
+<img width="1916" height="1128" alt="Screenshot 2026-03-30 215557" src="https://github.com/user-attachments/assets/c4c73b9a-34ee-48af-9877-7a7cd6ee2df3" />
+
+<img width="1580" height="733" alt="Screenshot 2026-03-31 122612" src="https://github.com/user-attachments/assets/8fd61c15-5154-46de-a470-abad1c1b096b" />
+![1000017813](https://github.com/user-attachments/assets/012939e0-648f-4cf0-a2e4-c8a9eb64d6f0)
+![1000017812](https://github.com/user-attachments/assets/7b33255a-fcdc-455a-8e02-c047395bc2f5)
+![1000017814](https://github.com/user-attachments/assets/4ae9c3e4-79be-43af-9ba9-e8ae17503f09)
+
+[![Watch the video](https://github.com/user-attachments/assets/17f6ec4a-1353-4115-a196-3fa1f70944f0)](https://jumpshare.com/embed/5yQEPPPaGBSJYMsxx8vl)
+**Total time spent: 2.4h**
 
 
 
