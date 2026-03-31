@@ -106,9 +106,12 @@ I started by opening all the pacages and making sure that they are the right one
 <img width="1916" height="1128" alt="Screenshot 2026-03-30 215557" src="https://github.com/user-attachments/assets/c4c73b9a-34ee-48af-9877-7a7cd6ee2df3" />
 
 <img width="1580" height="733" alt="Screenshot 2026-03-31 122612" src="https://github.com/user-attachments/assets/8fd61c15-5154-46de-a470-abad1c1b096b" />
-![1000017813](https://github.com/user-attachments/assets/012939e0-648f-4cf0-a2e4-c8a9eb64d6f0)
-![1000017812](https://github.com/user-attachments/assets/7b33255a-fcdc-455a-8e02-c047395bc2f5)
-![1000017814](https://github.com/user-attachments/assets/4ae9c3e4-79be-43af-9ba9-e8ae17503f09)
+
+![1000017813](https://github.com/user-attachments/assets/10357f3e-4184-421e-b013-361d0e09890e)
+![1000017812](https://github.com/user-attachments/assets/c167fc80-8276-42b9-8279-03b9d7db5a5d)
+
+![1000017814](https://github.com/user-attachments/assets/65a81adc-bc16-4e14-a8f0-7121e1ae1dbe)
+
 
 [![Watch the video](https://github.com/user-attachments/assets/17f6ec4a-1353-4115-a196-3fa1f70944f0)](https://jumpshare.com/embed/5yQEPPPaGBSJYMsxx8vl)
 **Total time spent: 2.4h**
